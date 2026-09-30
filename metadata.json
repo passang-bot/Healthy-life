@@ -1,0 +1,6 @@
+{
+  "name": "FocusFit",
+  "description": "Daily schedule planner with intelligent evening debriefs to boost focus, fitness, and consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
